@@ -1,0 +1,5 @@
+- [x] 基于消息表的事物一致性
+- [x] 基于 rocketmq 的事务一致性
+- [x] delete 幂等性
+- [x] update 幂等性
+- [x] insert 幂等性
